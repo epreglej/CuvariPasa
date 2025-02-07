@@ -20,5 +20,5 @@
 
 ## Acknowledgments
 
-Special thanks to our teaching assistants Antea Šetka for their guidance.
+Special thanks to our teaching assistants Antea Šetka for their guidance.<br/>
 Thanks to all the team members for their hard work and dedication.
