@@ -24,7 +24,7 @@ import axios, {AxiosError} from "axios";
 
 
 import Geocode from "react-geocode";
-Geocode.setApiKey("AIzaSyCzdvGwSbOBwq2GwrvNmJbeGWPDJTzCsLo")
+Geocode.setApiKey("-------------------------")
 Geocode.setRegion("hr");
 Geocode.setLocationType("ROOFTOP");
 
